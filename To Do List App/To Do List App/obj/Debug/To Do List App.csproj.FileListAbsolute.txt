@@ -1,0 +1,10 @@
+E:\Estudos 2.0\C#\ToDoList\To Do List App\To Do List App\bin\Debug\To Do List App.exe.config
+E:\Estudos 2.0\C#\ToDoList\To Do List App\To Do List App\bin\Debug\To Do List App.exe
+E:\Estudos 2.0\C#\ToDoList\To Do List App\To Do List App\bin\Debug\To Do List App.pdb
+E:\Estudos 2.0\C#\ToDoList\To Do List App\To Do List App\obj\Debug\To Do List App.csproj.AssemblyReference.cache
+E:\Estudos 2.0\C#\ToDoList\To Do List App\To Do List App\obj\Debug\To_Do_List_App.ToDoList.resources
+E:\Estudos 2.0\C#\ToDoList\To Do List App\To Do List App\obj\Debug\To_Do_List_App.Properties.Resources.resources
+E:\Estudos 2.0\C#\ToDoList\To Do List App\To Do List App\obj\Debug\To Do List App.csproj.GenerateResource.cache
+E:\Estudos 2.0\C#\ToDoList\To Do List App\To Do List App\obj\Debug\To Do List App.csproj.CoreCompileInputs.cache
+E:\Estudos 2.0\C#\ToDoList\To Do List App\To Do List App\obj\Debug\To Do List App.exe
+E:\Estudos 2.0\C#\ToDoList\To Do List App\To Do List App\obj\Debug\To Do List App.pdb
